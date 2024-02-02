@@ -1,7 +1,7 @@
 # Fin 404 (Comprehensive Personal Finance Dashboard)
 
 ## What does our application do? 
-Welcome to the Fin 404, your go-to web-based platform for gaining a holistic understanding of your financial landscape. 
+Welcome to Fin 404, your go-to web-based platform for gaining a holistic understanding of your financial landscape. 
 Our application offers a bird's-eye view of your financial health by aggregating data on assets, liabilities, and historical expenses.
 Through our intuitive interface, users can track their assets and liabilities effortlessly, gaining insights into their net worth over time. 
 Additionally, our platform provides comprehensive budget tracking and expense categorization features, 
